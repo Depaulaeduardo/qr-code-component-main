@@ -53,7 +53,15 @@ p {
   width: 320px;
 }
 
-@media only screen and (min-width:800px) {
+@media only screen and (min-width:700px) {
+    
+  body {
+    padding: 200px 225px;
+  }
+  
+}
+
+@media only screen and (min-width:1200px) {
     
     body {
       padding: 152px 576px;
